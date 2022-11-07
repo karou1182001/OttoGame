@@ -4,12 +4,12 @@ This game is about a little robot that survived of a big intergalactic war and n
 We used Unity to created.
 
 Authors:  
-MARÍA ZAPATA
-LAURA BERMÚDEZ 
-JONATHAN ILIAS                 
-CRISTIAN YEPES                 
-KEVIN GALANTÓN  
-SAMUEL DE ÁVILA
+MARÍA ZAPATA,
+LAURA BERMÚDEZ, 
+JONATHAN ILIAS,                 
+CRISTIAN YEPES,                 
+KEVIN GALANTÓN,  
+SAMUEL DE ÁVILA,
 ADRIANA PÉREZ
 
 
