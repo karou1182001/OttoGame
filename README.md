@@ -1,16 +1,73 @@
-# OttoGame
-This game is about a little robot that survived of a big intergalactic war and now needs to fix itself with your help. Gathering parts to upgrade your skills and to resist more damage from the dangerous environment of a unknown planet.
+# 🤖 OttoGame  
 
-We used Unity to created.
+[![Global Game Jam](https://img.shields.io/badge/Global%20Game%20Jam-2020-blue)](https://v3.globalgamejam.org/2020/games/otto-5)  
+[![Press Coverage](https://img.shields.io/badge/Featured%20in-Atlántico%20News-orange)](https://www.atlantico.gov.co/index.php/noticias/prensa-tic/12876-seguiremos-impulsando-a-los-jovenes-y-la-a-industria-de-videojuegos-en-el-atlantico-elsa-noguera)  
+[![Download](https://img.shields.io/badge/Download-Global%20Game%20Jam-green)](https://v3.globalgamejam.org/2020/games/otto-5)  
 
-Authors:  
-MARÍA ZAPATA,
-LAURA BERMÚDEZ, 
-JONATHAN ILIAS,                 
-CRISTIAN YEPES,                 
-KEVIN GALANTÓN,  
-SAMUEL DE ÁVILA,
-ADRIANA PÉREZ
+Otto is an indie game developed during the **Global Game Jam 2020**.  
+It tells the story of a **little robot survivor** of a great intergalactic war who now needs your help to **repair itself**, gather parts, upgrade skills, and resist the dangers of an unknown planet.  
 
+The game was so well received that at the end of the Jam, **the audience chanted Otto’s name**, making it one of the most memorable projects of the event.  
 
-![image](https://user-images.githubusercontent.com/54915677/200242597-6f87034d-f625-45e4-9352-3dd294bb8408.png)
+---
+
+## 🌍 Context
+- Built in **48 hours** as part of the [Global Game Jam 2020](https://globalgamejam.org/)  
+- Developed using **Unity**  
+- Featured in the **official news of Atlántico**:  
+  👉 <a href="https://www.atlantico.gov.co/index.php/noticias/prensa-tic/12876-seguiremos-impulsando-a-los-jovenes-y-la-a-industria-de-videojuegos-en-el-atlantico-elsa-noguera" target="_blank">Press article – Atlántico Governor’s Office</a>  
+- We had the honor of meeting **Elsa Noguera**, the city mayor at that time, who personally encouraged our work and the regional videogame industry.  
+
+---
+
+## 🎮 Game Features
+- Play as **Otto**, a small but resilient robot.  
+- **Explore** an unknown planet full of hazards.  
+- **Collect parts** to repair and upgrade abilities.  
+- Survive against a dangerous environment after the war.  
+
+---
+
+## 📸 Screenshots
+![OttoGame Screenshot](https://user-images.githubusercontent.com/54915677/200242597-6f87034d-f625-45e4-9352-3dd294bb8408.png)
+
+---
+
+## 🎥 Demo Video
+<a href="DEMO_VIDEO_LINK" target="_blank">
+  <img src="images/demo_thumbnail.png" alt="Otto Demo Video" width="500"/>
+</a>  
+
+*(Click the image above to watch the gameplay demo)*  
+
+> 🔧 Tip: If the video is small, you can add it directly to the repo in `videos/`. If not, upload it to **YouTube** or **Google Drive** and paste the link here.  
+
+---
+
+## 📥 Download
+You can download and play the game from the official Global Game Jam page:  
+👉 [Otto – Global Game Jam 2020](https://v3.globalgamejam.org/2020/games/otto-5)  
+
+---
+
+## 👥 Team
+A **multidisciplinary team** of passionate students and creators:  
+- 🎶 Musicians  
+- 💻 Software Engineers  
+- ⚡ Electronics Engineers  
+
+**Authors:**  
+- MARÍA ZAPATA  
+- LAURA BERMÚDEZ  
+- JONATHAN ILIAS  
+- CRISTIAN YEPES  
+- KEVIN GALANTÓN  
+- SAMUEL DE ÁVILA  
+- ADRIANA PÉREZ  
+
+---
+
+## 🏆 Recognition
+- 🥳 Audience chanted *“Otto!”* at the end of the Global Game Jam presentation.  
+- 🎉 One of the **most celebrated projects** of the event in Barranquilla.
+
