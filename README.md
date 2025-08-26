@@ -34,10 +34,7 @@ The game was so well received that at the end of the Jam, **the audience chanted
 ---
 
 ## 🎥 Demo Video
-<video width="500" controls>
-  <source src="readmecontent/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[▶ Watch the Demo](readmecontent/demo.mp4)
 
 
 ---
@@ -66,10 +63,8 @@ A **multidisciplinary team** of passionate students and creators:
 ---
 
 ## 🏆 Recognition
-<video width="500" controls>
-  <source src="readmecontent/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🎥 Demo Video
+[▶ Watch](readmecontent/video.mp4)
 
 - 🥳 Audience chanted *“Otto!”* at the end of the Global Game Jam presentation.  
 - 🎉 One of the **most celebrated projects** of the event in Barranquilla.
