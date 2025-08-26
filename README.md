@@ -34,13 +34,11 @@ The game was so well received that at the end of the Jam, **the audience chanted
 ---
 
 ## 🎥 Demo Video
-<a href="DEMO_VIDEO_LINK" target="_blank">
-  <img src="images/demo_thumbnail.png" alt="Otto Demo Video" width="500"/>
-</a>  
+<video width="500" controls>
+  <source src="readmecontent/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-*(Click the image above to watch the gameplay demo)*  
-
-> 🔧 Tip: If the video is small, you can add it directly to the repo in `videos/`. If not, upload it to **YouTube** or **Google Drive** and paste the link here.  
 
 ---
 
@@ -68,6 +66,11 @@ A **multidisciplinary team** of passionate students and creators:
 ---
 
 ## 🏆 Recognition
+<video width="500" controls>
+  <source src="readmecontent/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 - 🥳 Audience chanted *“Otto!”* at the end of the Global Game Jam presentation.  
 - 🎉 One of the **most celebrated projects** of the event in Barranquilla.
 
