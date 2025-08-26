@@ -28,13 +28,12 @@ The game was so well received that at the end of the Jam, **the audience chanted
 
 ---
 
-## 📸 Screenshots
-![OttoGame Screenshot](https://user-images.githubusercontent.com/54915677/200242597-6f87034d-f625-45e4-9352-3dd294bb8408.png)
-
----
-
 ## 🎥 Demo Video
-[▶ Watch the Demo](readmecontent/demo.mp4)
+<a href="https://photos.app.goo.gl/9gDtSi2dUGKawbtR8" target="_blank">
+  <img src="https://user-images.githubusercontent.com/54915677/200242597-6f87034d-f625-45e4-9352-3dd294bb8408.png" alt="Otto Demo Video" width="500"/>
+</a>  
+
+*(Click the image above to watch the demo on Google Photos)*
 
 
 ---
@@ -63,7 +62,6 @@ A **multidisciplinary team** of passionate students and creators:
 ---
 
 ## 🏆 Recognition
-## 🎥 Demo Video
 [▶ Watch](readmecontent/video.mp4)
 
 - 🥳 Audience chanted *“Otto!”* at the end of the Global Game Jam presentation.  
